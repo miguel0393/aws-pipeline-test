@@ -1,4 +1,4 @@
-package co.edu.eafit.protoapp;
+package co.edu.eafit.aws_pipeline_test;
 
 public class Calculadora {
 

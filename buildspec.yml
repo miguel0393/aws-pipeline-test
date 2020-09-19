@@ -41,7 +41,7 @@ phases:
   post_build:
     commands:
       - mvn package
-      - mv target/protoapp-1.0-SNAPSHOT.war ROOT.war
+      - mv target/aws-pipeline-test-1.0-SNAPSHOT.war ROOT.war
       # - command
 #reports:
   #report-name-or-arn:

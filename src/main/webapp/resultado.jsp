@@ -1,5 +1,5 @@
 <%@ page contentType="text/html" pageEncoding="UTF-8"%>
-<%@ page import="co.edu.eafit.protoapp.Calculadora" %>
+<%@ page import="co.edu.eafit.aws_pipeline_test.Calculadora" %>
 <%! Calculadora calc = new Calculadora(); %>
 <%
     Double numero = Double.valueOf(request.getParameter("numero"));

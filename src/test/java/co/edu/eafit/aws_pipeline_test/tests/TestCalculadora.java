@@ -1,6 +1,6 @@
-package co.edu.eafit.protoapp.tests;
+package co.edu.eafit.aws_pipeline_test.tests;
 
-import co.edu.eafit.protoapp.Calculadora;
+import co.edu.eafit.aws_pipeline_test.Calculadora;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
