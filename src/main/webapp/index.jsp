@@ -13,6 +13,7 @@
             <input name="numero" type="number" /><input value="Calcular" type="submit" />
             <p>All Rights Reserved - Universidad EAFIT</p>
             <p>Todos los derechos reservados - Universidad EAFIT</p>
+            <p>Editado por: Miguel Bolívar - Integración y despliegue continuo</p>
         </form>
     </body>
 </html>
